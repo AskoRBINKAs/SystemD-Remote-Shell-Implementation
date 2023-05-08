@@ -1,4 +1,4 @@
-# SystemD-Remote-Shell-Implementation
+# SystemD Remote Shell Implementation
 <b>Ru</b><br>
 Эта утилита предназначена для удаленного управления демонами в SystemD <br>
 ***python3 local_shell.py*** - утилита для добавления демонов в список контролируемых<br>
