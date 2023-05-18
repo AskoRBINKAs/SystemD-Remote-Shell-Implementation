@@ -2,7 +2,7 @@ from core import Core
 import os
 
 core = Core()
-text="""from config import SYSTEMCTL_PATH,JOURNALCTL_PATH
+text="""
 Select option:
 1 - Add new daemon manually
 2 - Add new from file
